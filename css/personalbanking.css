@@ -1,0 +1,10 @@
+.boss{
+    background: url("./../img/background-2.png");
+    background-size: cover;
+    padding: 40px 0px 40px 0px ;
+    text-align: center;
+}
+.BANKING{
+    color: white;
+    text-decoration: none;
+}

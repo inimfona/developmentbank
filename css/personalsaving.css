@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+.WHY-SAVE{
+    color: rgb(0, 140, 255);
+}
+.white-bg{
+    background-color: white;
+    padding-top:60px ;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    margin-top: 40px;
+}
+
+.tr{
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 10px 0px 10px 10px;
+}
+table{
+    width: 95%;
+}
+.head{
+    padding: 40px 40px 50px 0px;
+}
+.list{
+    font-size: 18px;
+}
+.itallic{
+    font-style: italic;
+}
+.Eligible::before{
+    content: "Eligible";
+    font-weight: bold;
+}
+.Interest::before{
+    content: "Interest Rate";
+    font-weight: bold;
+}
+.term{
+    font-weight: bold;
+}

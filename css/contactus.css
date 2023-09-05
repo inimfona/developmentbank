@@ -1,0 +1,34 @@
+.phone{
+    color: rgb(0, 132, 255);
+    font-weight: bold;
+    font-size: 18px;
+}
+.gm{
+    font-size: 17px;
+}
+.red{
+    color: red;
+}
+.name{
+    width: 95%;
+    height: 45px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: rgb(231, 235, 236);
+}
+.Full{
+    font-weight: bold;
+    font-size: 19px;
+}
+.field{
+    font-size: 18px;
+}
+#textarea{
+    width: 100%;
+}
+.bigboss{
+    background-color: blue;
+    padding: 20px 20px 20px 20px;
+    background-color: #17A1DB17;
+    border-radius: 20px;
+    border: 1px solid black;
+}

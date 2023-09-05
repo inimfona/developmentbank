@@ -1,0 +1,183 @@
+.navbar {
+    background-color: transparent;
+    --bs-navbar-toggler-border-color: none !important;
+    --bs-navbar-toggler-focus-width: none !important;   
+}
+.bg-body-tertiary{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.picture{
+    width: 80%;
+}
+.bg-body-tertiary{
+    background-color:white !important;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2) !important;
+}
+@media(min-width:1000px){
+    .media1{
+        display: none !important;
+    }
+}
+@media(max-width:1000px){
+    .media2{
+        display: none !important;
+    }
+}
+.home2{
+   padding-left: 10px;
+     font-weight: bold;
+}
+.Online{
+    background-color: rgb(31, 138, 66);
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.blue{
+    background-color:#2196f3;
+    color: white;
+    font-weight: bold;
+}
+.top{
+    background-color: #2196f3;
+    text-align: right;
+     padding: 5px 0px 5px 0px ;
+}
+.nav1{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    padding: 0px 20px 0px 0px;  
+}
+@media(max-width:1000px){
+    .top{
+        display:none;
+    }
+}
+.home1{
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    padding: 13px 25px 0px 0px !important;  
+}
+.center{
+    text-align: center;
+}
+.established{
+    font-size: 20px;
+}
+ @media(max-width:900px){
+    .DEVELOPMENT-BANK{
+        text-align: center;
+    }
+}
+.house{
+    width: 100%;
+}
+.learn-btn{
+    margin: 50px 0px 50px 0px ;
+    background-color: rgb(31, 138, 66);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px 10px 20px ;
+}
+.clean{
+    width: 100%;
+    border: 1px solid rgb(228, 228, 228);
+}
+.read-more{
+    color: rgb(0, 172, 0);
+    text-decoration: none;
+}
+.ENERGY-LOAN{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(24, 24, 24);
+    font-size: 17px;
+}
+.box{
+    border: 1px solid rgb(228, 228, 228);
+    padding: 10px 0px 0px 5px ;
+    background-color: white;
+}
+.grey{
+    background-color: rgb(248, 248, 248);
+}
+.dope{
+    background-color: rgb(1, 38, 119);
+    border-radius: 30px 0px 0px 0px;
+    padding-top:120px ;
+    padding-bottom: 30px;
+  
+}
+.try{
+    color: white;
+}
+.transfer-money{
+    color:white ;
+    font-size: 20px;
+}
+.ONLINE-btn{
+    background-color: rgb(31, 138, 66);
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.dope2{
+    background-color: rgb(1, 101, 119);
+    border-radius: 0px 0px 30px 0px;
+}
+.computer{
+    width: 100%;
+}
+.footer{
+    background: url("./../img/background-2.png");
+    background-size: cover;
+    border-radius: 30px 30px 0px 0px;
+    padding: 20px 0px 20px 0px ;
+    margin-top: 50px;
+}
+.footer-home{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.footer-home:hover{
+    color: black;
+}
+.white{
+    color: white;
+}
+.copyright{
+    background-color: black;
+}
+.lol{
+    color:  black !important;
+    background-color: transparent !important;
+    border: none !important;
+   
+}
+.danny-ing{
+   text-align: center;
+}
+.Plus{
+    text-decoration: none;
+    color: black;
+}
+.bt{
+    color:  black !important;
+    background-color: transparent !important;
+    border: none !important;
+    position: relative;
+    top: 5px ;
+    right: 26px;
+}

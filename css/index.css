@@ -181,3 +181,13 @@
     top: 5px ;
     right: 26px;
 }
+@media(max-width:1000px){
+    .large{
+        display: none !important;
+    }
+}
+@media(min-width:1000px){
+    .small{
+        display: none !important;
+    }
+}

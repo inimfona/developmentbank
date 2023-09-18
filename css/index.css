@@ -52,7 +52,16 @@
     text-decoration: none;
     color: white;
     font-size: 19px;
-    padding: 0px 20px 0px 0px;  
+    margin: 0px 20px 0px 0px;  
+}
+.nav2{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    margin: 0px 0px 0px 0px; 
+}
+.btn-group, .btn-group-vertical{
+      vertical-align: bottom !important;
 }
 @media(max-width:1000px){
     .top{
@@ -91,6 +100,9 @@
 .clean{
     width: 100%;
     border: 1px solid rgb(228, 228, 228);
+}
+.index{
+    z-index: 40000;
 }
 .read-more{
     color: rgb(0, 172, 0);
@@ -163,8 +175,12 @@
 .lol{
     color:  black !important;
     background-color: transparent !important;
-    border: none !important;
-   
+    border: none !important; 
+}
+.lol2{
+    color:  white !important;
+    background-color: transparent !important;
+    border: none !important; 
 }
 .danny-ing{
    text-align: center;
@@ -191,3 +207,163 @@
         display: none !important;
     }
 }
+.float{
+  float: right;
+}
+.btnrt{
+    border-radius: 3px;
+    border: none;
+    padding: 10px 15px 10px 15px;
+    background-color:  rgb(31, 138, 66);
+    color: white;
+    
+}
+.margin{
+    padding: 0px 30px 0px 0px;
+}
+.size{
+    font-size: 14spx;
+}
+.soon{
+    color: #2196f3;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.boss{
+    background: url("./../img/background-2.png");
+    background-size: cover;
+    padding: 40px 0px 40px 0px ;
+    text-align: center;
+}
+.BANKING{
+    color: white;
+    text-decoration: none;
+}
+.TUVALU{
+    color: rgb(0, 140, 255);
+}
+.Development{
+    font-size: 19px;
+}
+.vision{
+    margin: 30px 0px 0px 0px;
+    background-color:#17A1DB21;
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 18px;
+}
+.font{
+    font-size: 20px;
+}
+.pics{
+    border-radius: 50%;
+    width: 100%;
+    height: 150px;
+}
+.NIUATUI{
+    font-size: 12px;
+    font-weight: bold;
+}
+.CHAIRMAN{
+    color: rgb(0, 60, 255);
+    font-size: 12px;
+}
+.display{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-left: 10px;
+}
+body{
+    background-color: rgb(241, 241, 241);
+}
+.WHY-SAVE{
+    color: rgb(0, 140, 255);
+}
+.white-bg{
+    background-color: white;
+    padding-top:60px ;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    margin-top: 40px;
+}
+
+.tr{
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 10px 0px 10px 10px;
+}
+table{
+    width: 95%;
+}
+.head{
+    padding: 40px 40px 50px 0px;
+}
+.list{
+    font-size: 18px;
+}
+.itallic{
+    font-style: italic;
+}
+.Eligible::before{
+    content: "Eligible";
+    font-weight: bold;
+}
+.Interest::before{
+    content: "Interest Rate";
+    font-weight: bold;
+}
+.term{
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}
+.phone{
+    color: rgb(0, 132, 255);
+    font-weight: bold;
+    font-size: 18px;
+}
+.gm{
+    font-size: 17px;
+}
+.red{
+    color: red;
+}
+.name{
+    width: 95%;
+    height: 45px;
+    border: 1px solid rgb(189, 189, 189);
+    background-color: rgb(231, 235, 236);
+}
+.Full{
+    font-weight: bold;
+    font-size: 19px;
+}
+.field{
+    font-size: 18px;
+}
+#textarea{
+    width: 100%;
+}
+.bigboss{
+    background-color: blue;
+    padding: 20px 20px 20px 20px;
+    background-color: #17A1DB17;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.boss{
+    background: url("./../img/background-2.png");
+    background-size: cover;
+    padding: 40px 0px 40px 0px ;
+    text-align: center;
+}
+.BANKING{
+    color: white;
+    text-decoration: none;
+}
+
